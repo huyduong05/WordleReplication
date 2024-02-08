@@ -2,6 +2,7 @@
 A replication of Wordle (NYT Minigame) written in Java. 
 
 Wordle Class: 
+    
     Runs the wordle game in main. 
 
 
