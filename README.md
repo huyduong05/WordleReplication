@@ -1,4 +1,4 @@
-# wordlereplication
+# WordleReplication
 A replication of Wordle (NYT Minigame) written in Java. 
 
 Wordle Class: 
